@@ -1,4 +1,4 @@
-# A. Bear and Big Brother
+# A. Word
 
 - <h6> <center> Time limit per test 2 second </center> </h6>
 - <h6> <center> Memory limit per test 256 megabytes </center> </h6>
@@ -53,3 +53,6 @@ otherwise - in the lowercase one.
 <h6>Output</h6>
 
 >matrix
+
+## Codeforces Link
+[A. Word](https://codeforces.com/problemset/problem/59/A)
